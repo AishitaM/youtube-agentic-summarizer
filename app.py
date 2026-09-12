@@ -73,7 +73,7 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        .stApp { background: #f7f8fc; }
+    
         .block-container { max-width: 850px; padding-top: 3rem; }
         .hero {
             padding: 2rem;
